@@ -5,4 +5,4 @@ The goal of EigenFace is to, given a set of images of people's faces, find the p
 
 We can start out with a dataset of images, I used the one provided by [sci-ki](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html). These images are 250x250 pixels and colored. This implies that they exist in 250x250x3 space. We can reduce dimensionality by making these images black and white, reducing it to 250x250, producing the follow example image:
 
-![aaron](https://github.com/kcelebi/EigenFace/mdimg/bnw.png)
+![aaron](mdimg/bnw.png)
